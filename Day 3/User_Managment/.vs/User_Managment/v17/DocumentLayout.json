@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_managment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|solutionrelative:user_managment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_managment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|solutionrelative:user_managment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE147E7D-7C78-4541-8CF3-1DEAE5C4A66C}|User_Management.Services\\User_Management.Services.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_management.services\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE147E7D-7C78-4541-8CF3-1DEAE5C4A66C}|User_Management.Services\\User_Management.Services.csproj|solutionrelative:user_management.services\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_managment\\controllers\\valuescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|solutionrelative:user_managment\\controllers\\valuescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE147E7D-7C78-4541-8CF3-1DEAE5C4A66C}|User_Management.Services\\User_Management.Services.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_management.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE147E7D-7C78-4541-8CF3-1DEAE5C4A66C}|User_Management.Services\\User_Management.Services.csproj|solutionrelative:user_management.services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_management.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|solutionrelative:user_management.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_management.dataaccess\\migrations\\20250706212215_user table and initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|solutionrelative:user_management.dataaccess\\migrations\\20250706212215_user table and initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_management.dataaccess\\usermanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|solutionrelative:user_management.dataaccess\\usermanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_management.dataaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|solutionrelative:user_management.dataaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE147E7D-7C78-4541-8CF3-1DEAE5C4A66C}|User_Management.Services\\User_Management.Services.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_management.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE147E7D-7C78-4541-8CF3-1DEAE5C4A66C}|User_Management.Services\\User_Management.Services.csproj|solutionrelative:user_management.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|solutionrelative:user_managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_management.dataaccess\\migrations\\usermanagementdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|solutionrelative:user_management.dataaccess\\migrations\\usermanagementdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_management.dataaccess\\migrations\\20250704055641_user table \u0026 intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|solutionrelative:user_management.dataaccess\\migrations\\20250704055641_user table \u0026 intial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_management.dataaccess\\migrations\\20250703053104_user table create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|solutionrelative:user_management.dataaccess\\migrations\\20250703053104_user table create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_managment\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29AE6642-324C-4849-8919-A2CEB8CEE6BF}|User_Managment\\User_Managment.csproj|solutionrelative:user_managment\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|c:\\users\\hp\\desktop\\tatvasoftinternship code\\tatvasoft_summer_internship\\day 3\\user_managment\\user_management.dataaccess\\migrations\\20250706210125_user table \u0026 initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D9DBDB-C3EE-4229-A9D8-2A513CBC1111}|User_Management.DataAccess\\User_Management.DataAccess.csproj|solutionrelative:user_management.dataaccess\\migrations\\20250706210125_user table \u0026 initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 41,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250706212215_user table and initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Migrations\\20250706212215_user table and initial migration.cs",
+              "RelativeDocumentMoniker": "User_Management.DataAccess\\Migrations\\20250706212215_user table and initial migration.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Migrations\\20250706212215_user table and initial migration.cs",
+              "RelativeToolTip": "User_Management.DataAccess\\Migrations\\20250706212215_user table and initial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T21:22:17.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250706210125_user table \u0026 initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Migrations\\20250706210125_user table \u0026 initial migration.cs",
+              "RelativeDocumentMoniker": "User_Management.DataAccess\\Migrations\\20250706210125_user table \u0026 initial migration.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Migrations\\20250706210125_user table \u0026 initial migration.cs",
+              "RelativeToolTip": "User_Management.DataAccess\\Migrations\\20250706210125_user table \u0026 initial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T21:01:26.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\UserManagementDbContext.cs",
+              "RelativeDocumentMoniker": "User_Management.DataAccess\\UserManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\UserManagementDbContext.cs",
+              "RelativeToolTip": "User_Management.DataAccess\\UserManagementDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:49:15.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "User_Management.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "User_Management.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:37:33.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Managment\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "User_Managment\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Managment\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "User_Managment\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAnwGsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T04:55:28.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Managment\\appsettings.json",
+              "RelativeDocumentMoniker": "User_Managment\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Managment\\appsettings.json",
+              "RelativeToolTip": "User_Managment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T04:51:08.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.Services\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "User_Management.Services\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.Services\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "User_Management.Services\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T22:11:01.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Managment\\Controllers\\ValuesController1.cs",
+              "RelativeDocumentMoniker": "User_Managment\\Controllers\\ValuesController1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Managment\\Controllers\\ValuesController1.cs",
+              "RelativeToolTip": "User_Managment\\Controllers\\ValuesController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T21:56:55.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Models\\User.cs",
+              "RelativeDocumentMoniker": "User_Management.DataAccess\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Models\\User.cs",
+              "RelativeToolTip": "User_Management.DataAccess\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T20:51:25.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "User_Management.Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.Services\\Services\\UserService.cs",
+              "RelativeToolTip": "User_Management.Services\\Services\\UserService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwGEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:37:41.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250704055641_user table \u0026 intial migration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Migrations\\20250704055641_user table \u0026 intial migration.cs",
+              "RelativeDocumentMoniker": "User_Management.DataAccess\\Migrations\\20250704055641_user table \u0026 intial migration.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Migrations\\20250704055641_user table \u0026 intial migration.cs",
+              "RelativeToolTip": "User_Management.DataAccess\\Migrations\\20250704055641_user table \u0026 intial migration.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T05:56:41.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Managment\\Program.cs",
+              "RelativeDocumentMoniker": "User_Managment\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Managment\\Program.cs",
+              "RelativeToolTip": "User_Managment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T05:04:41.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "User_Management.Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.Services\\Class1.cs",
+              "RelativeToolTip": "User_Management.Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T04:33:13.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Managment\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "User_Managment\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Managment\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "User_Managment\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:06:44.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250703053104_user table create.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Migrations\\20250703053104_user table create.cs",
+              "RelativeDocumentMoniker": "User_Management.DataAccess\\Migrations\\20250703053104_user table create.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Migrations\\20250703053104_user table create.cs",
+              "RelativeToolTip": "User_Management.DataAccess\\Migrations\\20250703053104_user table create.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:28:47.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserManagementDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Migrations\\UserManagementDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "User_Management.DataAccess\\Migrations\\UserManagementDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\TatvasoftInternship code\\Tatvasoft_Summer_Internship\\Day 3\\User_Managment\\User_Management.DataAccess\\Migrations\\UserManagementDbContextModelSnapshot.cs",
+              "RelativeToolTip": "User_Management.DataAccess\\Migrations\\UserManagementDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAMBdwCgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T06:28:53.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
