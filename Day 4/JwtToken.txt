@@ -1,0 +1,84 @@
+Packages:
+
+1. Microsoft.AspNetCore.Authentication.JwtBearer
+2. Microsoft.IdentityModel.JsonWebTokens
+3. System.IdentityModel.Tokens.Jwt 
+
+=======================================================
+JwtHelper:
+
+public class JwtHelper(IConfiguration config)
+{
+    private IConfiguration _config = config;
+
+    public string GetJwtToken(User user)
+    {
+        SymmetricSecurityKey? securityKey = new(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
+        SigningCredentials? creds = new(securityKey, SecurityAlgorithms.HmacSha256);
+
+        Claim[]? claims =
+        [
+           new Claim("userId",user.Id.ToString()),
+           new Claim("fullName",user.FirstName+" "+user.LastName),
+           new Claim("firstName",user.FirstName),
+           new Claim("lastName",user.LastName),
+           new Claim("emailAddress",user.EmailAddress),
+           new Claim(ClaimTypes.Role, user.UserType.ToLower()),
+           new Claim("userImage",user.UserImage)
+        ];
+
+        JwtSecurityToken? token = new JwtSecurityToken(
+            _config["Jwt:Issuer"],
+            _config["Jwt:Audience"],
+            claims,
+            expires: DateTime.Now.AddHours(2),
+            signingCredentials: creds
+        );
+
+        return new JwtSecurityTokenHandler().WriteToken(token);
+    }
+}
+
+=======================================================
+Program.cs
+
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+{
+    options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
+    {
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        ValidIssuer = builder.Configuration["Jwt:Issuer"],
+        ValidAudience = builder.Configuration["Jwt:Audience"],
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+    };
+});
+=======================================================
+Program.cs
+
+builder.Services.AddSwaggerGen(options =>
+{
+    options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()
+    {
+        Name = "Authorization",
+        In = ParameterLocation.Header,
+        Type = SecuritySchemeType.Http,
+        Scheme = "Bearer"
+    });
+    options.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+                Reference = new OpenApiReference
+                {
+                    Type = ReferenceType.SecurityScheme,
+                    Id = "Bearer"
+                }
+            },
+            Array.Empty<string>()
+        }
+    });
+});
